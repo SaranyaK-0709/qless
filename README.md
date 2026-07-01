@@ -1,4 +1,4 @@
-# QLess — Intelligent Real-Time Queue Management System
+﻿# QLess — Intelligent Real-Time Queue Management System
 
 > A full-stack multi-tenant SaaS platform that eliminates physical queues using real-time token management, live dashboards, and role-based access control.
 
@@ -305,10 +305,5 @@ Staff clicks "Complete" → Status: COMPLETED ← Admin dashboard updates live
 
 ## 👤 Author
 
-Built with ❤️ as a full-stack real-time queue optimization platform.
+Built with ❤️ by **[Saranya K](https://github.com/SaranyaK-0709)**  
 
----
-
-## 📄 License
-
-MIT License — feel free to use and modify.
